@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MAIN="src/main.py"
+MAIN="__DATADIR__/pluzzdl/main.py"
 
 if [ ! -z "`python --version 2>&1 | grep 'Python 2'`" ]
 then
